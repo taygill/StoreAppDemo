@@ -197,7 +197,20 @@ section #main {
     section div.panel img.productType{
         width:75%
     }
+    img{
+        position:center;
+        color:hotpink;
+    object-fit:scale-down;
+    margin-left:5px;
+    padding:5px
+    }
+    .socialIcon{
+        object-position: left;
 
+    }
+    p{
+        margin-left: 75px;
+    }
 /*Footer*/
 footer{
     background-color:rgb(51, 51, 51);
